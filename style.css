@@ -1,0 +1,22 @@
+html{
+    background-color: crimson;
+}
+.parent{
+
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+img{
+    border: solid;
+    border-color: rgb(255, 0, 0);
+    border-width: 5px;
+    border-radius: 50px;
+    
+}
+h1{
+    padding: 50px;
+    text-align: center;
+    margin: 0px;
+    background-color: darkblue;
+}
